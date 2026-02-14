@@ -4,6 +4,10 @@ const Navbar = () => {
   return (
     <div>
       <h1>Navbar</h1>
+      <li>
+        <h1> haos</h1>
+        <h5>Trying anything is doing</h5>
+      </li>
     </div>
   );
 };
